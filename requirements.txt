@@ -1,0 +1,13 @@
+
+numpy
+torch
+torchvision
+sklearn
+pandas
+seaborn
+Pillow
+matplotlib
+ptitprince
+git+https://github.com/sebastianberns/cleanfeatures
+git+https://github.com/openai/CLIP.git
+dreamsim

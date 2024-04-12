@@ -1,0 +1,25 @@
+{
+    "info": {
+        "condition": "ccs-img",
+        "num_judgements": 11396,
+        "algorithm": "t-STE",
+        "performance": {
+            "error": 6994.7146,
+            "iter": 127,
+            "num_constraints": 0.3363
+        }
+    },
+    "parameters": {
+        "setup": {
+            "learning_rate": 2,
+            "max_iter": 10000,
+            "conv_tol": 1e-7
+        },
+        "run": {
+            "num_dims": 4,
+            "reg_L2": 0,
+            "p_log": true,
+            "seed": 4436
+        }
+    }
+}

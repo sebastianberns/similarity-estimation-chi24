@@ -1,0 +1,25 @@
+{
+    "info": {
+        "condition": "ccs-pat",
+        "num_judgements": 11400,
+        "algorithm": "t-STE",
+        "performance": {
+            "error": 6095.5100,
+            "iter": 400,
+            "num_constraints": 0.2739
+        }
+    },
+    "parameters": {
+        "setup": {
+            "learning_rate": 2,
+            "max_iter": 10000,
+            "conv_tol": 1e-7
+        },
+        "run": {
+            "num_dims": 4,
+            "reg_L2": 0,
+            "p_log": true,
+            "seed": 7330
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "info": {
+        "condition": "loz-pat",
+        "num_judgements": 11400,
+        "algorithm": "t-STE",
+        "performance": {
+            "error": 5392.0296,
+            "iter": 10000,
+            "num_constraints": 0.2264
+        }
+    },
+    "parameters": {
+        "setup": {
+            "learning_rate": 2,
+            "max_iter": 10000,
+            "conv_tol": 1e-7
+        },
+        "run": {
+            "num_dims": 4,
+            "reg_L2": 0,
+            "p_log": true,
+            "seed": 5663
+        }
+    }
+}
